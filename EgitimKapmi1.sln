@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampDers1", "KampDers1\Kamp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampDers2", "KampDers2\KampDers2.csproj", "{5CB1ECF8-5738-4B01-8339-B47A72D3734E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampDers3", "KampDers3\KampDers3.csproj", "{E35C4872-0A0E-4165-9125-4444C5E94213}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5CB1ECF8-5738-4B01-8339-B47A72D3734E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB1ECF8-5738-4B01-8339-B47A72D3734E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CB1ECF8-5738-4B01-8339-B47A72D3734E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35C4872-0A0E-4165-9125-4444C5E94213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35C4872-0A0E-4165-9125-4444C5E94213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35C4872-0A0E-4165-9125-4444C5E94213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35C4872-0A0E-4165-9125-4444C5E94213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
